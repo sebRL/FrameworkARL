@@ -77,7 +77,7 @@ Techniquement le document est une classe qui contient 10 méthodes.
 
 
 ## -- Architecture --  
-	\[ROOT\]->  
+	[ROOT]->  
 	index.php  
 	.htacess (Ne pas toucher)  
 		app (Votre terrain de jeu) ->  
